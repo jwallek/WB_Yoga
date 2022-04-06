@@ -1,0 +1,47 @@
+.flower {
+  color: rgb(212, 170, 233);
+}
+
+.color {
+  background-color: rgb(212, 170, 233);
+  color: white;
+}
+
+img {
+  width: 100%;
+  height: 80vh;
+  object-fit: cover;
+}
+.abc {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin-left: 0;
+}
+
+.carousel-item img {
+  opacity: 0.5;
+}
+
+.icons {
+  font-size: 32px;
+  color: rgb(212, 170, 233);
+}
+.card-body-icons {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.flowerForm {
+  color: rgb(212, 170, 233);
+  font-size: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+footer h6 {
+  color: rgb(212, 170, 233);
+}
+
